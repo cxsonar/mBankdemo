@@ -5,7 +5,7 @@
 #
 # The zimperium-zscan GitHub action scans your mobile app binary (iOS or Android)
 # and identifies security, privacy, and compliance-related vulnerabilities. ​
-#
+#test this file for mals
 # Prerequisites:
 #  * An active Zimperium zScan account is required. If you are not an existing Zimperium
 #    zScan customer, please request a zSCAN demo by visiting https://www.zimperium.com/contact-us.
